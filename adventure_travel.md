@@ -206,3 +206,94 @@ Papiers, docs, argent
  - certificats de vaccination pour certains pays
 
  - Carnet d’adresse avec tous les numéros de téléphone d’urgence / assistance, les numéros des cartes de crédit, etc… Et c’est une bonne idée d’en avoir un double quelque part sur l’Internet, juste au cas on on perd son carnet !
+ 
+ 
+ J’ai donc créé une checklist qui recense tous les accessoires indispensables à mettre dans sa valise :
+
+1 – Les vêtements :
+
+    pantalons (jean, coton, short, bermuda, pantacourt)
+    t-shirts (débardeur, t-shirt à manches longues, polo, chemise…)
+    pulls et gilets
+    jupes et robes
+    imperméable ou manteau
+    sous-vêtements
+    pyjama ou chemise de nuit
+    chaussettes
+    ceinture
+    vêtements de sport
+    lunettes de soleil et lunettes de vue
+    chapeau ou casquette
+    parapluie
+    foulard
+    bonnet
+    équipements de plage (maillot de bain, serviette de plage, paréo)
+
+2 – Les chaussures :
+
+    une paire de chaussures ouvertes (sandales, tongs)
+    une paire de chaussures de marche (baskets, chaussures de randonnée)
+
+3 – La trousse de toilette :
+
+    brosse à dents
+    dentifrice
+    savon et shampoing
+    peigne
+    produits de beauté (crème hydratante, maquillage)
+    pince à épiler
+    rasoir et mousse à raser
+    cotons-tiges
+    démaquillant
+    déodorant
+    parfum
+    tampons et serviettes hygiéniques
+    sèche-cheveux
+    lime à ongle
+    mouchoirs
+    boules Quies
+    serviette de bain
+    sachet plastique pour y ranger les sous-vêtements usagés
+
+4 – La trousse à pharmacie :
+
+    anti-douleur
+    anti-moustique
+    anti-diarrhéique
+    pansements
+    préservatifs, contraceptifs
+    crème solaire
+    lotion après-soleil (biafine)
+    médicaments prescrits
+
+5 – Les accessoires divers :
+
+    téléphone portable
+    ordinateur portable
+    montre
+    appareil photo
+    caméscope
+    chargeurs
+    adaptateur
+    lecteur mp3
+    console portable (psp)
+    piles
+    bloc note et stylo
+    lampe de poche
+    livres et magazines
+
+6 – Argent et documents (bagage à main) :
+
+    argent liquide ou chèques de voyages
+    carte bancaire
+    billet électronique
+    carte d’identité ou passeport
+    photocopie (pièce d’identité)
+    carte d’assurance maladie
+    permis de conduire
+    guide de voyage
+    dictionnaire
+    carte routière
+    numéros de téléphone d’urgence
+    carnet de vaccination
+
