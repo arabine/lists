@@ -1,3 +1,7 @@
+# Everyday Carry (EDC)
+
+From: https://korben.info/n-kit-survie-geek-sac-dos-everyday-carry.html
+
 Vous le savez, je bouge beaucoup. Et comme en ce moment, c’est pire que d’habitude, je me suis refait un joli sac à dos tout beau. En mode kit de survie Geek évidemment. En américain, ça s’appelle EDC.
 
 Pour ceux qui ne connaitraient pas ce terme EDC ça veut dire Everyday Carry. En gros, c’est ce que vous emmenez tous les jours sur vous afin de prévenir n’importe quel pépin.
@@ -13,7 +17,7 @@ Mon Kit de Survie
 
 Voici donc ce que j’ai mis dans mon sac :
 
-EDC
+![alt text](edc.jpg)
 
 Et une fois rangé, avec en complément un petit sac sacoche de câbles (USB, adaptateurs…etc.), ça tient dans ce sac ordi que j’ai eu en cadeau à une conf dernièrement. Et j’ai encore un peu de place pour y mettre quelques fringues, un livre…etc.
 
